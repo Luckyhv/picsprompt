@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "templates": [
+    {
+      "id": "anime_avatar",
+      "name": "Anime Avatar",
+      "prompt": "anime avatar portrait, clean lineart, soft studio lighting, detailed eyes, pastel colors",
+      "negativePrompt": "blurry, low quality, distorted face, extra eyes, extra limbs, bad anatomy",
+      "defaultSeed": 7,
+      "profileId": "low"
+    },
+    {
+      "id": "ghibli_paint",
+      "name": "Ghibli Inspired",
+      "prompt": "ghibli inspired portrait illustration, warm light, hand painted style, soft shading",
+      "negativePrompt": "blurry, low quality, distorted face, extra eyes, extra limbs, bad anatomy",
+      "defaultSeed": 11,
+      "profileId": "balanced"
+    },
+    {
+      "id": "watercolor",
+      "name": "Watercolor",
+      "prompt": "watercolor portrait illustration, soft brush strokes, paper texture, calm mood",
+      "negativePrompt": "blurry, low quality, noisy, deformed face",
+      "defaultSeed": 13,
+      "profileId": "balanced"
+    },
+    {
+      "id": "cyberpunk",
+      "name": "Cyberpunk",
+      "prompt": "cyberpunk character portrait, neon backlight, sharp contrast, futuristic outfit",
+      "negativePrompt": "blurry, low quality, distorted face, extra limbs",
+      "defaultSeed": 17,
+      "profileId": "quality"
+    }
+  ]
+}

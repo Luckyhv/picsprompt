@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "profiles": [
+    {
+      "id": "low",
+      "width": 256,
+      "height": 256,
+      "steps": 12,
+      "guidance": 1.8
+    },
+    {
+      "id": "balanced",
+      "width": 256,
+      "height": 256,
+      "steps": 14,
+      "guidance": 2.0
+    },
+    {
+      "id": "quality",
+      "width": 384,
+      "height": 384,
+      "steps": 16,
+      "guidance": 2.2
+    }
+  ]
+}
